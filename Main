@@ -1,0 +1,32 @@
+# - 1 задча длина слова
+print (len('What is your name? '))
+# - 2 суммы и разности 
+print(2+6,2-6) # - 1 пример
+
+first=2 # - 2 пример
+second=6
+summa=(first+second)
+diff=(first-second)
+print(summa,diff)
+
+# - 3 среднее арифметическое
+first =4
+sekond =8
+thirt =12
+mean=(first+sekond+thirt)
+print(mean//3)
+
+# - 4 простые строчки
+first_string = 'понедельник,' # - 1 пример
+second_string = 'вторник'
+print(first_string, second_string)
+
+print('понедельник, вторник') # - 2 пример
+
+# - 5 сложная форумула
+a=5
+b=10
+c=15
+f=(a*b)+(a*c)
+d=f**3
+print(d//2)
