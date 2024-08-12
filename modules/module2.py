@@ -1,5 +1,7 @@
 def say_hi():
     print("Привет я из модуля 2")
+    from random import randint
+    print(randint(1,100))
 def main():
     a = 5
     b = 10
